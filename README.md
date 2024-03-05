@@ -1,5 +1,5 @@
 # Script to automatically update the system
-This code helps you to update, upgrade and delete unnecesery files from your linux OS.
+This script automates the process of updating, upgrading and deleting unnecesery files from the Linux OS.
 ## Usage
 1. Run this code with the command `bash main.sh`
 
